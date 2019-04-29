@@ -1,0 +1,4 @@
+.stack-work/
+scheme-intepreter.cabal
+*~
+*.o
